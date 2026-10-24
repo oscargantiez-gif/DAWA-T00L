@@ -1,0 +1,7 @@
+copy this command in PowerShell admin only
+
+irm https://get.activated.win/ | iex
+
+select option 1
+
+and its ok :)
